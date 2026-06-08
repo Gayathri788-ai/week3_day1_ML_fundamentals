@@ -1,4 +1,4 @@
-@@ -0,0 +1,31 @@
+
 # Week 3 Day 1 - ML Fundamentals
 
 ## Objective
