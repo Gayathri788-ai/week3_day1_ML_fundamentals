@@ -1,0 +1,11 @@
+Machine Learning Workflow
+
+1. Collect Data
+2. Explore Dataset
+3. Identify Features and Labels
+4. Split Data into Training and Testing Sets
+5. Train the Machine Learning Model
+6. Make Predictions
+7. Evaluate Model Performance
+8. Visualize Results
+9. Use Model for Future Predictions
