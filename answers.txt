@@ -1,0 +1,15 @@
+1. What is Machine Learning?
+
+Machine Learning is a branch of Artificial Intelligence that allows computers to learn from data and make predictions.
+
+2. What is a Feature?
+
+A feature is an input variable used to train a machine learning model.
+
+3. What is a Label?
+
+A label is the output value that the model tries to predict.
+
+4. What is Linear Regression?
+
+Linear Regression is a supervised learning algorithm used to predict continuous numerical values.
